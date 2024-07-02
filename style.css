@@ -17,6 +17,14 @@ padding:5px;
   }
   
 }
+p::first-line {
+    .roboto-black {
+      font-family: "Roboto", sans-serif;
+      font-weight: 900;
+      font-style: normal;
+    }
+}
+
 
 /* "Visit this Website to Read More!" Link */
 
