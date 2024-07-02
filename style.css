@@ -20,15 +20,17 @@ padding:5px;
   
   
 }
-p:first-of-type::first-letter
-    .playball-regular 
+p:first-of-type::first-letter {
+    .playball-regular {
         font-family: "Playball", cursive;
         font-weight: 400;
         font-style: normal;
         font-size: 4em;
-        color: mediumvioletred;
-         
-}
+        color: mediumvioletred;   
+    }
+
+    }
+    
 
 /* "Visit this Website to Read More!" Link */
 a {
